@@ -92,7 +92,7 @@ class Result {
 
 }
 
-public class Solution {
+public class Swap_Nodes_Algo {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new PrintWriter(System.out));
